@@ -1,2 +1,3 @@
 # HolidayCost
-this program calculates the cost of holiday
+This program is a holiday cost calculator in Python
+Requirement: Python 3.0
