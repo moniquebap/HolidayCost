@@ -1,4 +1,4 @@
-# HolidayCost
+# Holiday Cost Calculator
 - This program is a holiday cost calculator in Python.
 - It calculates a user's holiday cost including: the plane cost, hotel cost and car rental cost.
 - Requirement: Python 3.0
